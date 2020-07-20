@@ -1,0 +1,23 @@
+{
+  "name": "menu-slider",
+  "version": "1.0.0",
+  "description": "Simple applicatin with menu slider and sign-up modal, built using vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d menu-slider"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TN-space/menu-slider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TN-space/menu-slider/issues"
+  },
+  "homepage": "https://TN-space.github.io/menu-slider",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
